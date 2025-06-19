@@ -11,17 +11,17 @@ export function ContactHeader() {
       </div>
       <h1 className="text-4xl font-bold mb-4">Contact Our Experts</h1>
       <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-        Have questions about commodity investing? Our team of experts is here to help you make informed decisions.
+        Have questions about invest-Mate Our team of experts is here to help you make informed decisions.
       </p>
 
       <div className="flex flex-col sm:flex-row justify-center items-center gap-8 mt-8">
         <div className="flex items-center space-x-2 text-muted-foreground">
           <Phone className="h-4 w-4" />
-          <span>+1 (555) 123-4567</span>
+          <span>+923474436638</span>
         </div>
         <div className="flex items-center space-x-2 text-muted-foreground">
           <Mail className="h-4 w-4" />
-          <span>support@commoditypro.com</span>
+          <span>Irfan.70376@iqra.edu.pk</span>
         </div>
       </div>
     </div>

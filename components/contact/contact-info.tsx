@@ -9,13 +9,13 @@ const contactDetails = [
   },
   {
     icon: Phone,
-    title: "Phone Numbers",
-    details: ["+1 (555) 123-4567", "+1 (555) 123-4568", "Toll-free: 1-800-COMMODITY"],
+    title: "Phone Number",
+    details: ["+923474436638"],
   },
   {
     icon: Mail,
-    title: "Email Addresses",
-    details: ["support@commoditypro.com", "advisory@commoditypro.com", "partnerships@commoditypro.com"],
+    title: "Email Address",
+    details: ["Irfan.70376@iqra.edu.pk"],
   },
   {
     icon: Clock,

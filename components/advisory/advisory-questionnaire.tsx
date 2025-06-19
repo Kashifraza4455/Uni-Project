@@ -67,7 +67,7 @@ export function AdvisoryQuestionnaire() {
     <Card className="max-w-2xl mx-auto">
       <CardHeader>
         <CardTitle className="flex items-center justify-between">
-          Investment Advisory Questionnaire
+          Invest-Mate Advisory Questionnaire
           <span className="text-sm font-normal text-muted-foreground">
             Step {currentStep} of {totalSteps}
           </span>

@@ -10,13 +10,13 @@ export function Hero() {
           <div className="flex justify-center mb-6">
             <div className="flex items-center space-x-2 bg-primary/10 px-4 py-2 rounded-full">
               <TrendingUp className="h-4 w-4 text-primary" />
-              <span className="text-sm font-medium text-primary">AI-Powered Investment Advisory</span>
+              <span className="text-sm font-medium text-primary">AI-Powered Invest-Mate</span>
             </div>
           </div>
 
           <h1 className="text-4xl lg:text-6xl font-bold tracking-tight mb-6">
-            Smart Commodity
-            <span className="text-primary"> Investment</span>
+            Smart Invest
+            <span className="text-primary">-Mate</span>
             <br />
             Made Simple
           </h1>

@@ -7,7 +7,7 @@ export default function AdvisoryPage() {
     <div className="container mx-auto px-4 py-8">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold mb-4">AI Investment Advisory</h1>
+          <h1 className="text-4xl font-bold mb-4">AI Invest-Mate Advisory</h1>
           <p className="text-xl text-muted-foreground">
             Get personalized commodity investment recommendations based on your profile
           </p>

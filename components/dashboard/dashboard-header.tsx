@@ -7,7 +7,7 @@ export function DashboardHeader() {
     <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
       <div>
         <div className="flex items-center space-x-3 mb-2">
-          <h1 className="text-3xl font-bold">Market Dashboard Test by</h1>
+          <h1 className="text-3xl font-bold">Market Dashboard</h1>
           <Badge variant="outline" className="bg-green-50 text-green-700 border-green-200">
             <TrendingUp className="h-3 w-3 mr-1" />
             Live Data
